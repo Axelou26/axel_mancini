@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+- toujours faire le css dan un fichier différents de l'html
+- toujours rendre le site responsive 
